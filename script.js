@@ -18,7 +18,7 @@ async function initMap() {
             "Yoshi's House",
             34.66794972477843,
             135.43200165965436,
-            "/assets/yoshi.png",
+            "./assets/yoshi.png",
             45,
             45
         ],
@@ -26,7 +26,7 @@ async function initMap() {
             "You're here",
             34.66835123903054, 
             135.43060691329785,
-            "/assets/here.png",
+            "./assets/here.png",
             45,
             45
         ],
@@ -34,7 +34,7 @@ async function initMap() {
             "Ghost House",
             34.66806374211575, 
             135.4298284169153,
-            "/assets/ghost.jpg",
+            "./assets/ghost.jpg",
             45,
             45
         ],
@@ -42,7 +42,7 @@ async function initMap() {
             "Castle",
             34.667316844263816, 
             135.43053805182498,
-            "/assets/castle.png",
+            "./assets/castle.png",
             45,
             45
         ],
@@ -50,7 +50,7 @@ async function initMap() {
             "Warp Pipe",
             34.6680143121481, 
             135.42848464841015,
-            "/assets/pipe.png",
+            "./assets/pipe.png",
             45,
             45
         ],
@@ -58,7 +58,7 @@ async function initMap() {
             "Star World",
             34.66864421396308, 
             135.43171569837276,
-            "/assets/star world.jpg",
+            "./assets/star world.jpg",
             45,
             45
         ],
@@ -66,7 +66,7 @@ async function initMap() {
             "Mushroom",
             34.66879201566264, 
             135.42983815213483,
-            "/assets/mushroom.svg",
+            "./assets/mushroom.svg",
             45,
             45
              
@@ -75,7 +75,7 @@ async function initMap() {
             "Flower",
             34.66907977037622, 
             135.42896233907842,
-            "/assets/flower.jpg",
+            "./assets/flower.jpg",
             45,
             45
              
